@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Stepper	KEYWORD1	Stepper
+StepperPWM	KEYWORD1	StepperPWM
 
 #######################################
 # Methods and Functions (KEYWORD2)
