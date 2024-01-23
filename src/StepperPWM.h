@@ -76,8 +76,8 @@
  */
 
 // ensure this library description is only included once
-#ifndef Stepper_h
-#define Stepper_h
+#ifndef StepperPWM_h
+#define StepperPWM_h
 
 // library interface description
 class StepperPWM {
